@@ -1,0 +1,13 @@
+body
+{
+    text-align: center;
+}
+profile {
+    border-radius: 50%;
+    width: 175px;
+    
+}
+#Welcome{
+    color: brown;
+    background: linear-gradient (antiquewhite 0%, green 100 %);
+}
